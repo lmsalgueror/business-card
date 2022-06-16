@@ -1,0 +1,69 @@
+                    .body {
+                        padding: 20px;
+                        margin: 0 auto;
+                    }
+                    
+                    .avatar {
+                        width: 350px;
+                    }
+                    
+                    .contenedor {
+                        padding: 10px;
+                        width: 700px;
+                        margin-top: 50px;
+                        margin-left: auto;
+                        margin-right: auto;
+                        border: 4px e7c6ff inset;
+                        border-radius: 30px;
+                        border-bottom: 4px lightpink solid;
+                        border-top: 4px lightpink solid;
+                        background-color: lavender;
+                    }
+                    
+                    .card {
+                        display: flex;
+                        justify-content: space-around;
+                    }
+                    
+                    .texto {
+                        margin: auto;
+                    }
+                    
+                    .title {
+                        font-family: 'Handlee', cursive;
+                        font-weight: bold;
+                        color: black;
+                        background-image: url(https://cutewallpaper.org/24/highlighter-png/download-yellow-highlighter-transparent-background-png-image-with-no-background-pngkeycom.png);
+                        background-size: 110%;
+                        background-repeat: no-repeat;
+                        background-position: center;
+                    }
+                    
+                    .textoinfo {
+                        font-family: 'Neucha', cursive;
+                        color: darkorchid;
+                        text-align: left;
+                    }
+                    
+                    .logo {
+                        width: 100px;
+                    }
+                    
+                    .orden {
+                        display: flex;
+                        justify-content: space-around;
+                    }
+                    
+                    .orden2 {
+                        width: 350px;
+                        padding: 30px;
+                        display: flex;
+                        justify-content: space-evenly;
+                    }
+                    
+                    .textoinformacion {
+                        font-family: 'Neucha', cursive;
+                        color: black;
+                        text-align: bottom;
+                        padding-top: 20px;
+                    }
